@@ -1,0 +1,26 @@
+
+public class JavaSwitch {
+	
+	private static String cart;
+	
+	public static void main(String[] args) {
+		
+		
+		cart = "beer";
+		
+	
+		switch (cart) {
+		case "beer":
+			System.out.println("No beer");
+			break;
+		case "milk":
+			System.out.println("You can buy milk");
+			break;
+		default:
+			System.out.println("Nothing");
+			break;
+		};
+
+	}
+
+}

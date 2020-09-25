@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class JavaIf {
+	private static boolean heater = flase;
+	
+	public static void main(String[] args) { 
+ 			Scanner dataInput = new Scanner(System.in);
+ 			System.out.println("Please input temperature: ");
+
+ 			double temp = data.Input.nextDouble();
+ 			switchHeater(temp);
+ 			System.out.println(temp);
+ 			dataInput.close();
+
+	}
+
+	public static boolean  switchHeater(double temp) {
+		if (temp <= 20) { 
+			heater = true;
+		}
+		return heater;
+	}
+}

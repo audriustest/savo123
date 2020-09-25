@@ -1,0 +1,23 @@
+package PD006;
+
+import java.util.Scanner;
+
+public class PD006_2 {
+private static int mon;
+//private static byte tue;
+//private static byte wed;
+//private static byte thu;
+//private static byte fri;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input = new Scanner(System.in);
+		int mon = input.nextByte();
+//		byte tue = input.nextByte(tue);
+//		byte wed = input.nextByte(wed);
+//		byte thu = input.nextByte(thu);
+//		byte fri = input.nextByte(fri);
+		
+		System.out.println(mon );
+
+	}
+

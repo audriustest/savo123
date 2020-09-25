@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;hour&apos; in &apos;JavaSwitch&apos; to &apos;HOUR&apos;&#x0A;- Original project: &apos;0923&apos;&#x0A;- Original element: &apos;JavaSwitch.hour&apos;&#x0A;- Renamed element: &apos;JavaSwitch.HOUR&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;hour&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{JavaSwitch.java[JavaSwitch^hour" name="HOUR" references="true" setter="false" stamp="1600871707446" textual="false" version="1.0"/>
+</session>

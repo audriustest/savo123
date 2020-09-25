@@ -1,0 +1,38 @@
+
+public class JavaFor {
+
+	public static void main(String[] args) {
+		int i = 0;
+		for(int i=1; i < 100;i++) { 
+//			if (i < 100) { // isskaidytas for  
+//				i++;
+//				System.out.println("Break" + i);
+//				
+//			} else {
+//				break;
+//			}
+		
+		}
+	}
+
+}
+
+
+//public class JavaFor {
+//
+//	public static void main(String[] args) {
+//		int i = 0;
+//		for(;;) { 
+//			if (i < 100) { // isskaidytas for  
+//				i++;
+//				System.out.println("Break" + i);
+//				
+//			} else {
+//				break;
+//			}
+//		
+//		}
+//	}
+//
+//}
+

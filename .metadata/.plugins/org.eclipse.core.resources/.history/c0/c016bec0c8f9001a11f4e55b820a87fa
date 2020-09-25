@@ -1,0 +1,6 @@
+public class MonkeySay {
+	public static void(String[] args) {
+		System.out.println("Holidy ....");
+	}
+
+}

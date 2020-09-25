@@ -1,0 +1,7 @@
+public class MonkeySay {
+	public static void main(String[] args) {
+		int _1karve = 20;
+		System.out.println("You pay nuts, you get monkeys \u270E");
+	}
+
+}

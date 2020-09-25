@@ -1,0 +1,11 @@
+package lt.vtmc.audrius.datatypes;
+
+public class javaFloat {
+
+	public static void main(String[] args) {
+		float fl = 0.1f;
+		System.out.println(f1 + f1 + f1 + f1 + f1 + f1 + f1 + f1 + f1 + f1);
+
+	}
+
+}

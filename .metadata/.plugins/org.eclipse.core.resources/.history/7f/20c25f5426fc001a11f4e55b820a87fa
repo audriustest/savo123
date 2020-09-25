@@ -1,0 +1,32 @@
+package lt.vtmc.audrius.datatypes;
+
+public class PU001 {
+
+	public static void main(String[] args) {
+		
+		pu001a();
+		pu001c();
+		
+		public static void pu001a() {
+		// TODO Auto-generated method stub
+		System.out.println("Welcome to Java");
+		System.out.println("Learning Java Now");
+		System.out.println("Programing is fun");
+
+		}
+		
+		public static void pu001b(){
+			
+		}
+	
+		public static void pu001c() {
+			// TODO Auto-generated method stub
+			System.out.println("J \t \t A \t \t V \t \t A");
+			System.out.println("J \t \t AA \t \t VV \t \t AA");
+			System.out.println("J \t \t AA \t \t VV \t \t AA");
+			System.out.println("J \t \t AA \t \t VV \t \t AA");
+		
+		}
+	}
+
+}

@@ -1,0 +1,12 @@
+package PD006;
+import java.util.Scanner;  // Import the Scanner class
+
+class PD006_2 {
+	 
+  public static void main(String[] args) {
+    Scanner.lessions = new Scanner(System.in);
+    System.out.println("Monday?");
+    int mon = lessions.nextDouble();
+    
+  }
+}

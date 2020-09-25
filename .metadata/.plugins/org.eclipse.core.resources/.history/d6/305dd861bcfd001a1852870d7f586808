@@ -1,0 +1,37 @@
+package PD006;
+
+public class PD006_3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int wallHeight = 400;
+		int wallWidth = 300;
+		int wallSize = wallHeight * wallWidth;
+		int bricketHeight = 10;
+		int bricketWidth = 20;
+		int bricketSize = bricketHeight * bricketWidth;
+		float bricketPrice = 0.5f;
+		
+		
+		int totalBrickets = wallSize / bricketSize;
+		int bricketsPriceTotal = totalBrickets * bricketPrice;
+		System.out.println("kiek reiks plytu:" + totalBrickets);
+		System.out.println("kiek kainuos:" + bricketsPriceTotal);
+		
+	}
+}
+		
+//		int wallCapacity = wallSize / bricketSize;
+		
+		
+//		for (int bricketTotal = 0; wallSize <= bricketSize;     )
+//		
+//			public static void main(String[] args) {
+//			
+//			for(int i = 0; i <= 100;i++) { 
+//				System.out.println("Break: " + i);
+//			
+//			
+//			}
+//	}
+

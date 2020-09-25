@@ -1,0 +1,11 @@
+public class MonkeySay {
+	
+	private static String name = "Bananas";
+	
+	
+	public static void main(String[] args) {
+		int cow = 20;
+		System.out.println("You pay nuts, you get monkeys \u270E" + name);
+	}
+
+}

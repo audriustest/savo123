@@ -1,0 +1,14 @@
+package lt.vtmc.audrius.datatypes;
+
+public class javaBoolean {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		boolean b1 = true;
+		boolean b2 = false;
+		if (b1 & b2) {
+			
+		}
+	}
+
+}

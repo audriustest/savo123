@@ -1,0 +1,31 @@
+
+public class JavaSwitch {
+	
+	private static String cart;
+	private static int hour = 20;
+	
+	public static void main(String[] args) {
+		
+		
+		cart = "beer";
+		
+		if (cart.equals("beer") & hour > 20) {
+			cart = "milk";
+		}
+
+		
+		switch (cart) {
+		case "beer":
+			System.out.println("No beer");
+			break;
+		case "milk":
+			System.out.println("You can buy milk");
+			break;
+		default:
+			System.out.println("Nothing");
+			break;
+		};
+
+	}
+
+}

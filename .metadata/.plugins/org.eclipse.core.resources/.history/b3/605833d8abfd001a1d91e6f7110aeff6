@@ -1,0 +1,18 @@
+
+public class JavaWhile {
+
+	private static double cash = 1200;
+	
+	
+	public static void main(String[] args) {
+		
+	
+		while (cash != 0 ) {
+			cash -= 20; 
+			System.out.println("Money: " + cash);
+		}
+			
+
+	}
+
+}

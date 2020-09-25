@@ -1,0 +1,19 @@
+package lt.vtmc.audrius.datatypes;
+
+public class javaByte {
+
+	public static void main(String[] args) {
+		byte  b = 127; // -128 - +127 
+		
+		System.out.println(b++);
+		System.out.println(b++);
+		
+		short s = 27422;
+		
+		System.out.println(s);
+	
+		
+		
+	}
+
+}

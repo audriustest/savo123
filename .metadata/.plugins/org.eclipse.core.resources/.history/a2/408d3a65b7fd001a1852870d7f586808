@@ -1,0 +1,15 @@
+package PD006;
+import java.util.Scanner;  // Import the Scanner class
+
+class studyCount {
+	 
+  public static void main(String[] args) {
+    Scanner studyCount = new Scanner(System.in);  // Create a Scanner object
+    System.out.println("Enter Monday study count:");
+
+    String monday = studyCount.next();  // Read user input
+    System.out.println("Monday study count is: " + monday);  // Output user input
+    
+    
+  }
+}

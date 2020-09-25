@@ -1,0 +1,12 @@
+package lt.vtmc.audrius.datatypes;
+
+public class javaFloat {
+
+	public static void main(String[] args) {
+		float f1 = 0.1f;
+		float sum = f1 + f1 + f1 + f1 + f1 + f1 + f1 + f1;// + f1 + f1;
+		System.out.println(sum);
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package lt.vtmc.audrius.datatypes;
+
+public class javaByte {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

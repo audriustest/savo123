@@ -1,0 +1,14 @@
+package lt.vtmc.audrius.datatypes;
+
+public class PU001_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("J \t \t A \t \t V \t \t A");
+		System.out.println("J \t \t AA \t \t VV \t \t AA");
+		System.out.println("J \t \t AA \t \t VV \t \t AA");
+		System.out.println("J \t \t AA \t \t VV \t \t AA");
+		
+	}
+
+}
