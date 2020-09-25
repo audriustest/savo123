@@ -1,0 +1,21 @@
+package PD006;
+import java.util.Scanner;  // Import the Scanner class
+
+class PD006_2 {
+	private static Scanner dataInput = new Scanner(System.in);
+	
+	public static void main(String[] args) {
+    int sum = getData("pirm") + getData("antr") + getData("trec") + getData("ketv") + getData("penkt") ;
+  	System.out.println("paskaitu skaicius:" + sum);
+  	System.out.println("Tai sudaro minuciu: " + (sum * 45) );
+	  
+  }
+  
+  public static int getData(String day) {
+	  System.out.println("kiek paskaitu yra"  + day + "?: ");
+	  int pasKiekis = dataInput.nextInt();
+	  return pasKiekis;
+  }
+  
+
+}
