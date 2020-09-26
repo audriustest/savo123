@@ -1,5 +1,3 @@
 INDEX VERSION 1.131+/Users/AudriusG/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-2332568569.index
-209869841.index
-484369445.index
-1107002597.index
+564439505.index
+3757966126.index
